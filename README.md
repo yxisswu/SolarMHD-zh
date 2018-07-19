@@ -1,4 +1,4 @@
-# Solar-MHD-zh_CN
+# SolarMHD-zh
 
 书名：太阳磁流体力学讲义
 编著：毛信杰
